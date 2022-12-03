@@ -10,3 +10,5 @@
  'SELECT' contains some example of querries with descriptions in natural language above them.
  
  'CASCADE' contains example of cascade deletind and updating, showing changes.
+ 
+ 
